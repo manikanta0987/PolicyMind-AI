@@ -1,6 +1,6 @@
 # PolicyMind-AI
 
-![PolicyMind AI banner](assets/policymind-banner.png)
+![PolicyMind AI banner](assets/assetspolicymind-banner.png)
 
 A company policy and employee handbook assistant built with Python, Streamlit, and local AI.
 PolicyMind AI helps users find information in policy PDFs by asking questions in plain language. It uses Retrieval-Augmented Generation (RAG) to retrieve relevant document sections and provide them to a language model as context for an answer. Source filenames and page references help users check the retrieved material.
